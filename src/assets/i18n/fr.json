@@ -1,1 +1,5 @@
-{}
+{
+  "welcome": "Bienvenue à transloco-demo!",
+  "description": "Ceci est une démonstration pour la bibliothèque transloco {{name}}."
+}
+
