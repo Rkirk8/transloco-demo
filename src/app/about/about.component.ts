@@ -2,11 +2,11 @@ import { Component } from '@angular/core';
 import { TranslocoDirective } from '@jsverse/transloco';
 
 @Component({
-  selector: 'app-home',
+  selector: 'app-about',
   imports: [TranslocoDirective],
-  templateUrl: './home.component.html',
-  styleUrl: './home.component.css'
+  templateUrl: './about.component.html',
+  styleUrl: './about.component.css'
 })
-export class HomeComponent {
+export class AboutComponent {
 
 }

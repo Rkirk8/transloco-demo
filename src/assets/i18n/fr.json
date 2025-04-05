@@ -4,6 +4,10 @@
   "choose_language": "Choisissez une langue",
   "en)": "English",
   "(es": "Spanish",
-  "fr": "French"
+  "fr": "French",
+  "nav": {
+    "home": "Accueil",
+    "about": "A propos"
+  }
 }
 

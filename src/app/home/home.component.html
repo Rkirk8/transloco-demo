@@ -1,1 +1,5 @@
-<p>home works!</p>
+<!-- add the same conatiner and elements as in the app.component.html-->
+<ng-container *transloco="let t">
+  <h1>{{ t('welcome') }}</h1>
+  <p>{{ t('welcomeText', { name: 'Rielly' }) }}</p>
+</ng-container>

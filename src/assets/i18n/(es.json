@@ -4,6 +4,10 @@
   "choose_language": "Elige un idioma",
   "en)": "English",
   "(es": "Spanish",
-  "fr": "French"
+  "fr": "French",
+  "nav": {
+    "home": "Casa",
+    "about": "Sobre nosotros"
+  }
 }
 
