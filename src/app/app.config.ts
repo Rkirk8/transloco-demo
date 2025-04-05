@@ -9,7 +9,7 @@ import { provideTransloco } from '@jsverse/transloco';
 export const appConfig: ApplicationConfig = {
   providers: [provideZoneChangeDetection({ eventCoalescing: true }), provideRouter(routes), provideHttpClient(), provideTransloco({
         config: { 
-          availableLangs: ['(es', 'fr', 'en)'],
+          availableLangs: ['(es', 'fr', 'en)'],//this is the probelm with my languages I messed up here
           defaultLang: '(es',
           // Remove this option if your application doesn't support changing language in runtime.
           reRenderOnLangChange: true,
