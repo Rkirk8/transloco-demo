@@ -1,5 +1,7 @@
 <!-- This component is the main entry point for the application. It contains a main element with a heading and a paragraph. The heading and paragraph are translated using the transloco pipe. The transloco pipe takes a string as an argument and returns the translated value. The string is looked up in the translation files that are loaded by the transloco module. -->
 <main *transloco="let t">
+  <!-- Step 4 -->
+  <app-language-switcher></app-language-switcher>
   <h1>{{ t('welcome') }}</h1>
   <p>{{ t('welcomeText', { name: 'Rielly' }) }}</p> <!-- This is a string interpolation-->
 </main>

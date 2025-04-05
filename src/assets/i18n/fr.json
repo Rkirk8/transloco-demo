@@ -1,5 +1,9 @@
 {
   "welcome": "Bienvenue à transloco-demo!",
-  "description": "Ceci est une démonstration pour la bibliothèque transloco {{name}}."
+  "welcomeText": "Ceci est une démonstration pour la bibliothèque transloco {{name}}.",
+  "choose_language": "Choisissez une langue",
+  "en)": "English",
+  "(es": "Spanish",
+  "fr": "French"
 }
 

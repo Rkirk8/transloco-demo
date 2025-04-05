@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to transloco-demo!",
+  "welcomeText": "This is a demo for the transloco library {{ name }}.",
+  "choose_language": "Choose a language",
+  "en)": "English",
+  "(es": "Spanish",
+  "fr": "French"
+}
