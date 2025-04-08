@@ -7,8 +7,9 @@
   "fr": "French",
   "nav": {
     "home": "Casa",
-    "about": "Sobre nosotros"
+    "about": "Sobre nosotros",
+    "news": "Noticias"
   },
-  "news": "This is the news page"
+  "news": "Noticias"
 }
 
